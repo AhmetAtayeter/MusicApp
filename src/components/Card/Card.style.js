@@ -7,9 +7,7 @@ export default StyleSheet.create({
         width: Dimensions.get('window').width - 20,
         height: Dimensions.get('window').height / 7,
         margin: 5,
-        flexDirection: 'row',
-        borderBottomWidth: 1,
-        borderBottomColor: 'lightgray'
+        flexDirection: 'row'
     },
     view2: {
         backgroundColor: 'white',
